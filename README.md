@@ -4,9 +4,9 @@
 This code provides a movie recommendation based on a given sentence. It uses the `spacy` library for NLP processing and the `pandas` library for data manipulation.
 
 ## Table of contents
-- [Installation](# Installation)
-- [Usage](# Usage)
-- [Credits](# Credits)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Credits](#Credits)
 
 ## Installation
 1. Install Python 3.x
