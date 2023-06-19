@@ -66,6 +66,7 @@ This code provides a movie recommendation based on a given sentence. It uses the
    It then recommends the movie title with the highest similarity score.
 
 6. Run the script and view the recommended movie title and its similarity score.
+   
    Note: Make sure to update the `movies.txt` file with a relevant list of movies for accurate recommendations.
 
 ## Credits
