@@ -3,10 +3,10 @@
 
 This code provides a movie recommendation based on a given sentence. It uses the `spacy` library for NLP processing and the `pandas` library for data manipulation.
 
-## Prerequisites
-- Python 3.x
-- `spacy` library
-- `pandas` library
+## Table of contents
+- [Installation](# Installation)
+- [Usage](# Usage)
+- [Credits](# Credits)
 
 ## Installation
 1. Install Python 3.x
@@ -68,7 +68,7 @@ This code provides a movie recommendation based on a given sentence. It uses the
 6. Run the script and view the recommended movie title and its similarity score.
 Note: Make sure to update the `movies.txt` file with a relevant list of movies for accurate recommendations.
 
-7. Credits (references)
+## Credits
 - Files provided by HyperionDev on this task and previous tasks
 - https://www.programiz.com/python-programming/methods/dictionary/keys
 - https://tutorial.eyehunts.com/python/key-lambda-python-keylambda-function-example/
